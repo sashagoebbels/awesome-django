@@ -20,3 +20,8 @@ Awesome Django resources
 
 - [django-crispy-forms](https://django-crispy-forms.readthedocs.io/en/latest/)\
   django-crispy-forms provides you with a |crispy filter and {% crispy %} tag that will let you control the rendering behavior of your Django forms in a very elegant and DRY way.
+
+### Universal scope
+
+- [django-model-utils](https://django-extensions.readthedocs.io/en/latest/index.html)\
+  Some deprecated admin tools and some tools for executing shell commands and stuff like sqldiff, sync to S3, password generation, graph models etc.
